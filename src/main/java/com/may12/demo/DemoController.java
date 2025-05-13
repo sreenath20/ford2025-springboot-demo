@@ -71,4 +71,5 @@ public class DemoController {
         return newWallet; // jakson is send JSON of object
     }
 
+
 }
